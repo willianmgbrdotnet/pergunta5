@@ -1,0 +1,15 @@
+C:\estagioteste\targetsistemas\pergunta5\bin\Debug\net7.0\pergunta5.exe
+C:\estagioteste\targetsistemas\pergunta5\bin\Debug\net7.0\pergunta5.deps.json
+C:\estagioteste\targetsistemas\pergunta5\bin\Debug\net7.0\pergunta5.runtimeconfig.json
+C:\estagioteste\targetsistemas\pergunta5\bin\Debug\net7.0\pergunta5.dll
+C:\estagioteste\targetsistemas\pergunta5\bin\Debug\net7.0\pergunta5.pdb
+C:\estagioteste\targetsistemas\pergunta5\obj\Debug\net7.0\pergunta5.csproj.AssemblyReference.cache
+C:\estagioteste\targetsistemas\pergunta5\obj\Debug\net7.0\pergunta5.GeneratedMSBuildEditorConfig.editorconfig
+C:\estagioteste\targetsistemas\pergunta5\obj\Debug\net7.0\pergunta5.AssemblyInfoInputs.cache
+C:\estagioteste\targetsistemas\pergunta5\obj\Debug\net7.0\pergunta5.AssemblyInfo.cs
+C:\estagioteste\targetsistemas\pergunta5\obj\Debug\net7.0\pergunta5.csproj.CoreCompileInputs.cache
+C:\estagioteste\targetsistemas\pergunta5\obj\Debug\net7.0\pergunta5.dll
+C:\estagioteste\targetsistemas\pergunta5\obj\Debug\net7.0\refint\pergunta5.dll
+C:\estagioteste\targetsistemas\pergunta5\obj\Debug\net7.0\pergunta5.pdb
+C:\estagioteste\targetsistemas\pergunta5\obj\Debug\net7.0\pergunta5.genruntimeconfig.cache
+C:\estagioteste\targetsistemas\pergunta5\obj\Debug\net7.0\ref\pergunta5.dll
